@@ -23,7 +23,7 @@ import java.util.List;
 @Data
 @Table(name = "laptop")
 @Slf4j
-public class Laptop {
+ public class Laptop {
     //Defining book id as primary key
     @Id
     @Column
