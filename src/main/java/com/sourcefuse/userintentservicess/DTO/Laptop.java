@@ -21,7 +21,7 @@ import java.util.List;
 //defining class name as Table name
 @NoArgsConstructor
 @Data
-@Table(name = "laptop")
+@Table(name =   "laptop")
 @Slf4j
  public class Laptop {
     //Defining book id as primary key
